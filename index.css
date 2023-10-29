@@ -10,7 +10,6 @@
     transition: transform 0.6s ease;
     border-bottom: gray 2px;
   }
-
   .hover-button:hover {
     transform: translateY(-10px);
     transition: tranform 0.6s ease;
