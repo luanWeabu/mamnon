@@ -106,6 +106,9 @@
     padding-left: 150px;
     padding-right: 150px;
   }
+  .write_about {
+    padding: 100px;
+  }
 }
 .wake-a-genius {
   background-color: #563cab;
@@ -123,7 +126,7 @@
 }
 @media screen and (max-width: 768px) {
   .write_about {
-    height: 450px;
+    height: 650px;
   }
   .nav-funcare {
     display: flex;
